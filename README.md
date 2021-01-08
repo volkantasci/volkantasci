@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Udemy
+- 🔭 I’m currently working on ... Reka Logistics
 - 🌱 I’m currently learning ... Django
 - 👯 I’m looking to collaborate on ... Django
 - 🤔 I’m looking for help with ... Javascript
