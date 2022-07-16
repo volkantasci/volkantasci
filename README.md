@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Reka Logistics
+- 🔭 I’m currently working on ... DevStudio Design
 - 🌱 I’m currently learning ... Vue.js
-- 👯 I’m looking to collaborate on ... CSS
-- 🤔 I’m looking for help with ... CSS
+- 👯 I’m looking to collaborate on ... Vue
+- 🤔 I’m looking for help with ... Data Science
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [with my e-mail](mailto:me@volkantasci.com)
 - 😄 Pronouns: ... He/Him
