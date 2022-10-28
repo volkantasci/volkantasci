@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... DevStudio Design
-- 🌱 I’m currently learning ... Vue.js
+- 🌱 I’m currently learning ... FastAPI
 - 👯 I’m looking to collaborate on ... Vue
 - 🤔 I’m looking for help with ... Data Science
 - 💬 Ask me about ... Anything
