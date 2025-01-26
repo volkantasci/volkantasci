@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at METAG HOLDING as an AI Engineer <br>👯 I’m looking to collaborate on ML<br>🤝 I’m looking for help with ML and Data Science<br>🌱 I’m currently learning PyTorch<br>💬 Ask me about anything <br>⚡ Fun fact I'm always be a junior.
+🔭 I’m currently working at VOSLO as an AI Engineer <br>👯 I’m looking to collaborate on ML<br>🤝 I’m looking for help with ML and Data Science<br>🌱 I’m currently learning PyTorch<br>💬 Ask me about anything <br>⚡ Fun fact I'm always be a junior.
 
 
 ## 🌐 Socials:
