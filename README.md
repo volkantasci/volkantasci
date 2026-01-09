@@ -8,7 +8,10 @@
 # 💻 Tech Stack:
 
 ### 🧠 AI & LLM Ops
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Dify](https://img.shields.io/badge/Dify-155EEF?style=for-the-badge&logo=dify&logoColor=white) ![Flowise](https://img.shields.io/badge/Flowise-8B5CF6?style=for-the-badge&logo=flowise&logoColor=white) ![Langflow](https://img.shields.io/badge/Langflow-FF3E00?style=for-the-badge&logo=langflow&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Dify](https://img.shields.io/badge/Dify-155EEF?style=for-the-badge&logo=dify&logoColor=white) ![Flowise](https://img.shields.io/badge/Flowise-8B5CF6?style=for-the-badge&logo=flowise&logoColor=white) ![Langflow](https://img.shields.io/badge/Langflow-FF3E00?style=for-the-badge&logo=langflow&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white) ![Zep Memory](https://img.shields.io/badge/Zep_Memory-7F52FF?style=for-the-badge&logo=zep&logoColor=white)
+
+### 🗃️ Vector & Graph Databases
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-B91C1C?style=for-the-badge&logo=qdrant&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-fc6203?style=for-the-badge&logo=python&logoColor=white) ![Weaviate](https://img.shields.io/badge/Weaviate-019F12?style=for-the-badge&logo=weaviate&logoColor=white) ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
 
 ### 🛠 Backend & Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -16,7 +19,7 @@
 ### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### 🗄️ Database
+### 🗄️ Traditional Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ☁️ DevOps & Cloud
